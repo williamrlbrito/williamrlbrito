@@ -19,7 +19,7 @@ Full Cycle developer;
 
 ### Connect with me
 [![Github Badge](https://img.shields.io/badge/-Github-000?logo=Github&logoColor=white&link=https://github.com/williamrlbrito)](https://github.com/williamrlbrito)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-brito-218898108/)](https://www.linkedin.com/in/william-brito-218898108/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williamrlbrito/)](https://www.linkedin.com/in/williamrlbrito/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white&link=mailto:williamrldb@gmail.com)](mailto:williamrldb@gmail.com)
 
 
