@@ -7,7 +7,7 @@ Full Cycle developer;
 
 🪐 33-years-old; from brazil.
 
-🦾 Currently working as a Full Cycle Developer in Gestor Food/MT
+🦾 Currently working as a Full Cycle Developer in Gestor Food / MT
 
 👩🏻‍💻 currently learning React, React Native, Node.js and DevOps.
 
