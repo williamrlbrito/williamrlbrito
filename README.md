@@ -3,15 +3,15 @@
 
 <img src="https://user-images.githubusercontent.com/52502727/89461429-f57dee00-d739-11ea-9b7f-2b85703279f3.png" alt="drawing" width="300" height=200/>
 
-Full Cycle developer;
+Full Cycle Developer;
 
-🪐 33-years-old; from brazil.
+🪐 35-years-old; from brazil.
 
-🦾 Currently working as a Full Cycle Developer in Gestor Food / MT
+🦾 Currently working as a Senior PHP Developer in Vonex Telecom / SP.
 
-👩🏻‍💻 currently learning React, React Native, Node.js and DevOps.
+👩🏻‍💻 Currently learning Java, Go, Node.js and DevOps.
 
-💬 you can talk to me if you need help or sugestion.
+💬 You can talk to me if you need help or suggestion.
 
 
 ---
