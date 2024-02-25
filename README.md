@@ -5,11 +5,11 @@
 
 Full Cycle Developer;
 
-🪐 35-years-old; from brazil.
+🪐 36 years old / Brazilian.
 
 🦾 Currently working as a Senior PHP Developer in Vonex Telecom / SP.
 
-👩🏻‍💻 Currently learning Java, Go, Node.js and DevOps.
+👩🏻‍💻 Currently learning Java, Go, Node and Angular.
 
 💬 You can talk to me if you need help or suggestion.
 
